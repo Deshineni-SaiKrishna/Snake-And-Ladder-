@@ -149,7 +149,7 @@ if __name__ == '__main__':
 			if looser == True:
 				looser=False
 				continue
-			i+=1	
+			i+=3	
 			
 os.system('play --no-show-progress --null --channels 1 synth %s sine %f' % ( 1,500))
 	
