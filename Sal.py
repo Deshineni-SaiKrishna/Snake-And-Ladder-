@@ -130,7 +130,7 @@ if __name__ == '__main__':
 	j=1
 	while(num!=0):
 		print("player %i" % j )
-		j=j+1
+		j=j+2
 		num=num-1
 		
 	global playerList		
